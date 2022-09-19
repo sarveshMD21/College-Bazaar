@@ -1,6 +1,8 @@
-# College-Bazaar
+# This project is made by Shrihar Sarraf and Sarvesh Dongare, for Hyland Hackathon.
+## College-Bazaar
 
-College Bazaar is an Android Application which provides college students to sell and buy old stuff like books, bicycles, motorcycle to/from other students
+College Bazaar is an Android Application which provides college students to sell and buy old stuff like books, bicycles, motorcycle to/from other students.
+It helps in sustainable use of resources as people can reuse the things again.
 
 ## Provides features such as :
 
