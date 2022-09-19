@@ -1,4 +1,4 @@
-# This project is made by Shrihar Sarraf and Sarvesh Dongare, for Hyland Hackathon.
+# This project is made by Shrihar Sarraf, Sarvesh Dongare and Rosan Raj Mallick, under the team name SAD_developer for Hyland Hackathon.
 ## College-Bazaar
 
 College Bazaar is an Android Application which provides college students to sell and buy old stuff like books, bicycles, motorcycle to/from other students.
